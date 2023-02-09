@@ -1,5 +1,11 @@
 # astro
 
+## 2.0.11
+
+### Patch Changes
+
+- [#6049](https://github.com/withastro/astro/pull/6049) [`8b7cb64da`](https://github.com/withastro/astro/commit/8b7cb64dadfca93c65d62df54754633d398cb2ed) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Preserve `--root` CLI flag when restarting dev server
+
 ## 2.0.10
 
 ### Patch Changes
